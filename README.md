@@ -1,2 +1,2 @@
 # ApplicationTemplate
-General Template for applications
+Template for applications
